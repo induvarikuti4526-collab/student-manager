@@ -11,9 +11,9 @@ from datetime import datetime
 from pathlib import Path
 from typing import Any, Iterable, Optional
 
-1
+
 # ============================================================
-# CONSTANT
+# CONSTANTS
 # ============================================================
 
 DEFAULT_DB = "students.db"
